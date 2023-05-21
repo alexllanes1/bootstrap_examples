@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: rgb(52, 177, 52);
+    height: 5000px;
+}
+
+.barraNav{
+    background-color: blue;
+    color: aliceblue;
+    position: sticky;
+ }
+ 
+ .imagenes{
+    background-color: orangered;
+    border: 1px solid black;
+ }
+ 
+ 
+ .parrafos{
+    background-color: violet;
+ }
+ 
+ .footer{
+    background-color: green;
+ }
